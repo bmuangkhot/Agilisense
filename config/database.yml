@@ -1,0 +1,21 @@
+development:
+   adapter: postgresql
+   encoding: utf8
+   reconnect: false
+   database: ocf2_dev
+   username: acdba
+   password: acdba
+   host: localhost
+   pool: 5
+
+production:
+   adapter: postgresql
+   encoding: utf8
+   reconnect: false
+   database: ocf2_prod
+   username: acdba
+   password: acdba
+   host: localhost
+pool: 5
+
+  

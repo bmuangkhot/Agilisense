@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  event_datetime: 2012-04-09 19:15:21
+  event_type: MyString
+  room_number: MyString
+
+two:
+  event_datetime: 2012-04-09 19:15:21
+  event_type: MyString
+  room_number: MyString
